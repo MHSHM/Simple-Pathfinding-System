@@ -1,0 +1,3 @@
+﻿  Grid.cpp
+g:\game dev\project 2\pathfinding\main\grid.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.vcxproj -> G:\Game Dev\Project 2\Pathfinding\Debug\main.exe
