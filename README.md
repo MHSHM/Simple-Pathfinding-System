@@ -9,3 +9,6 @@ what i've learned :-
 - How to find Shortest path using different algorithms and the cons and pros of each one (used A* in the project).
 - what is graph and how to deal with it.
 - How to implement navigation component to tell the object where to go and when to turn.
+
+# Preview
+https://youtu.be/dOAKTidbLWQ
